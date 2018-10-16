@@ -1,2 +1,5 @@
-build
-.idea/workspace.xml
+/.coordinates.csv.crc
+/.observations.csv.crc
+/coordinates.csv
+/observations.csv
+target/
